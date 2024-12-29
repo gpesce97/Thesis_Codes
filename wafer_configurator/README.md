@@ -18,11 +18,11 @@
 ### Single KIDs Configuration
 This plot shows the arrangement of KIDs in one configuration:
 
-![Single Configuration Plot](https://github.com/gpesce97/Thesis_Codes/blob/main/wafer_configurator/data/example_output/000_23_conf.png "Single KIDs Configuration: diff $a \ge 22$")
+![Single Configuration Plot: $diff \ge 22$ ](https://github.com/gpesce97/Thesis_Codes/blob/main/wafer_configurator/data/example_output/000_23_conf.png "Single KIDs Configuration")
 
 ---
 
 ### Overview of KIDs Configurations
 The plot below represents the average index values across multiple configurations:
 
-![Overview Plot](images/overview_configuration.png "Overview of KIDs Configurations")
+![Overview Plot]([images/overview_configuration.png](https://github.com/gpesce97/Thesis_Codes/blob/main/wafer_configurator/data/example_output/config_overview.png) "Overview of KIDs Configurations")
