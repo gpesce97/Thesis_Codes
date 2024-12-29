@@ -819,7 +819,7 @@ class WaferConfigurator:
 
 
 if __name__ == '__main__':
-    wConf = WaferConfigurator(diff=23, output='test_with_class')
+    wConf = WaferConfigurator(diff=23, output='wafer_confs')
     wConf.configure()
     wConf.get_wafer()
     wConf.get_confs(100000)
