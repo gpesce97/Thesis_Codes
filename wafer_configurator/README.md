@@ -18,7 +18,7 @@
 ### Single KIDs Configuration
 This plot shows the arrangement of KIDs in one configuration:
 
-![Single Configuration Plot](https://github.com/gpesce97/Thesis_Codes/blob/main/wafer_configurator/data/example_output/000_23_conf.png "Single KIDs Configuration")
+![Single Configuration Plot](https://github.com/gpesce97/Thesis_Codes/blob/main/wafer_configurator/data/example_output/000_23_conf.png "Single KIDs Configuration: diff \ge 22")
 
 ---
 
