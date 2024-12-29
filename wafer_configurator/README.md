@@ -23,6 +23,6 @@ This plot shows the arrangement of KIDs in one configuration:
 ---
 
 ### Overview of KIDs Configurations
-The plot below represents the average index values across multiple configurations:
+The overview plot provides a comparison of multiple configurations, showcasing metrics through a radar chart and a heatmap visualization:
 
 ![Overview Plot](https://github.com/gpesce97/Thesis_Codes/blob/main/wafer_configurator/data/example_output/config_overview.png "Overview of KIDs Configurations")
