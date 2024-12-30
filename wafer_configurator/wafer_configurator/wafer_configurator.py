@@ -1,5 +1,5 @@
 """
-Module: detector.py
+Module: wafer_configurator.py
 Author: Giacomo Lopez
 Created on: May 28, 2024,
 Version: 1.0.0
